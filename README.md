@@ -1,4 +1,4 @@
-# Hotel-Bookingf-system-
+# Hotel-Booking-system-
 
 This is a hotel booking system that allows customers to search for and book rooms at various hotels. The system is designed to be user-friendly and easy to use, with a simple and intuitive interface.
 
